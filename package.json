@@ -1,0 +1,21 @@
+{
+  "name": "gulp-estemplate",
+  "version": "0.0.1",
+  "description": "Generate ASTs from JS templates w/ estemplate",
+  "main": "index.js",
+  "author": "Dusty Litle <dlittle@toyatech.net",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:toyatech/gulp-estemplate.git"
+  },
+  "homepage": "https://github.com/toyatech/gulp-estemplate/",
+  "bugs": "https://github.com/toyatech/gulp-estemplate/issues/",
+  "dependencies": {
+  },
+  "keywords": [
+    "estemplate",
+    "gulp",
+    "plugin"
+  ]
+  "license": "MIT"
+}
