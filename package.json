@@ -11,6 +11,8 @@
   "homepage": "https://github.com/toyatech/gulp-estemplate/",
   "bugs": "https://github.com/toyatech/gulp-estemplate/issues/",
   "dependencies": {
+    "estemplate": "^0.5.1",
+    "through2": "^2.0.1"
   },
   "keywords": [
     "estemplate",
