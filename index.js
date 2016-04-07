@@ -11,7 +11,7 @@ module.exports = function(options) {
     }
 
     try {
-      var template = String(file.contents),
+      var template = String(file.contents)
         , ast = estemplate(template, options);
       file.contents = new Buffer(ast);
       this.push(file);
