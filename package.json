@@ -1,6 +1,6 @@
 {
   "name": "gulp-estemplate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generate ASTs from JS templates w/ estemplate",
   "main": "index.js",
   "author": "Dusty Litle <dlittle@toyatech.net",
